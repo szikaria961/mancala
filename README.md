@@ -4,7 +4,7 @@ Mancala
 
 ## Description
 
-TODO
+Basic Mancala App with react
 
 ## Development
 
